@@ -1,20 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**nagybalazs1001/nagybalazs1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![Balazs's github stats](https://github-readme-stats.vercel.app/api?username=nagybalazs1001)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nagybalazs1001)](https://github.com/nagybalazs1001/github-readme-stats)
+#### I am a finance and data analyst, passionate about technology.
+---
+### 💻 Tech Stack
+Here are a few things I've picked up on in the past:
+- 📃   Pandas | NumPy
+- 💾   Python | SQL
+- 🗣    MySQL | SSMS | MSSQL 
+- 🌐   HTML | CSS 
+- 👷‍♀️   Git | Github
+- 💠   JavaScript | jQuery
+---
+### 📚 Currently learning
+Tools that I'm currently experimenting with:
+- 🗣 MongoDB
+- 📃 SciPy
+- 💾 Matplotlib
+- 🌐 SQLite
+---
+### ⚒ Currently working on
+---
+### 📫 Get in touch
+- LinkedIn - [Balázs D. Nagy](https://www.linkedin.com/in/nagy-bal%C3%A1zs-d%C3%A1niel/)
+- E-mail - [nagybalazs1001@gmail.com](mailto:nagybalazs1001@gmail.com)
