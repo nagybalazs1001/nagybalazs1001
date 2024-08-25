@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 #### I am a finance and data analyst, passionate about technology.
 ---
